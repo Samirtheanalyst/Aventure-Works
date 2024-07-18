@@ -1,8 +1,8 @@
-# Data-I
+# Adventure Works
 
 🛑 Adventure Works Sales Dashboard
 Overview
-✅Inside this Adventure Works raw data we analyzed and designed to provide key insights, key KPI's with the help of Microsoft Excel, Microsoft PowerBI, & Tableau dashboards. These dashboards presents an analysis of sales metrics, regional performance, product performance, and customer behavior.
+✅Inside this Adventure Works raw data we analyzed and designed to provide key insights and KPIs with the help of Microsoft Excel, Microsoft PowerBI, & Tableau dashboards. These dashboards analyse sales metrics, regional performance, product performance, and customer behaviour.
 
 Key Features
 ✅Sales and Profit Analysis: Overview of total sales and profit.
